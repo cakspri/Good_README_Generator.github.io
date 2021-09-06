@@ -18,8 +18,6 @@ This application uses [Inquirer](https://www.npmjs.com/package/inquirer). Be sur
 
 ## Usage
 
-:link: [View demo](https://drive.google.com/file/d/1VmOeeLeDQnkCXOmObIWv21uxn8hm3NeG/view?usp=sharing)
-
 To run the application, run `node index`.
 
 Then, answer the prompts. Newline characters are supported, but certain prompts may not permit you to use them (ex. writing a newline character in the name of the project).
